@@ -1,18 +1,15 @@
-# Template Repository
+# Bedrock Armor Stands
 
-A short description about this project here.
+A Minecraft: Java Edition datapack that makes armor stands poseable like in Bedrock Edition.
 
-## How To Use (GUI)
+## How To Use
 
-Coming Soon.
+1. Place an armor stand down. (It should have arms by default now)
+2. Shift right click to cycle through poses.
 
-## How To Use (CLI)
+## Minimum Minecraft Version
 
-Coming Soon.
-
-## Minimum \<Language> Version
-
-* \<language> \<version> 
+* 1.16
 
 # Screen Shots
 
