@@ -26,5 +26,3 @@ function bedrock_armorstands:redstone_poses/trapdoors
 function bedrock_armorstands:redstone_poses/tripwire
 function bedrock_armorstands:redstone_poses/skulls
 function bedrock_armorstands:redstone_poses/weighted_pressure_plate
-
-

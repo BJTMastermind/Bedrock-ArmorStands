@@ -26,5 +26,3 @@ execute as @e[type=armor_stand,tag=BedrockArmorStand,scores={ArmorStandPose=11}]
 #Hero Pose
 execute as @e[type=armor_stand,tag=BedrockArmorStand,scores={ArmorStandPose=12}] at @s run data merge entity @s {Pose:{Head:[-4f,67f,0f],Body:[0f,8f,0f],RightArm:[-99f,63f,0f],LeftArm:[16f,32f,-8f],RightLeg:[4f,63f,8f],LeftLeg:[0f,-75f,-8f]}}
 execute as @e[type=armor_stand,tag=BedrockArmorStand,scores={ArmorStandPose=13}] at @s run scoreboard players set @s ArmorStandPose 0
-
-

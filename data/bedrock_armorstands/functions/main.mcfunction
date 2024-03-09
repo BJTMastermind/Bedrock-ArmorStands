@@ -4,5 +4,3 @@ replaceitem entity @a[nbt={SelectedItem:{id:"minecraft:armor_stand"}}] weapon.ma
 function bedrock_armorstands:click_pose
 function bedrock_armorstands:poses
 function bedrock_armorstands:redstone_pose
-
-

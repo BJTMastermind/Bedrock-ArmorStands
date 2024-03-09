@@ -14,5 +14,3 @@ execute if block ~ ~ ~ daylight_detector[power=12] run scoreboard players set @s
 execute if block ~ ~ ~ daylight_detector[power=13] run scoreboard players set @s ArmorStandPose 12
 execute if block ~ ~ ~ daylight_detector[power=14] run scoreboard players set @s ArmorStandPose 12
 execute if block ~ ~ ~ daylight_detector[power=15] run scoreboard players set @s ArmorStandPose 12
-
-
